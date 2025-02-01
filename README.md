@@ -17,3 +17,6 @@ Admin Panel for managing FAQs
 Unit Tests & Linting for code quality
 
 Google Translate API Integration
+
+
+Note:- The main code is master branch please check that one
